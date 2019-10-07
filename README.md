@@ -1,2 +1,2 @@
 # CMPE331Exercises
-SERRA ECE DOĞAN
+Author: Serra Ee Doğan
