@@ -1,6 +1,6 @@
 # CMPE331Exercises
 Author: Serra Ee Doğan
-I am Serra Ece Doğan. I am a student at Electrical and Electronics department.
+I am Serra Ece Doğan. I am a student at Electrical and Electronics department. My school number is 116202048.
 Our groups name is helloworld.
 Group members names are,
 Ozge Hulya Durgut 116202035 from eeen,
